@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #faf9f6;
+  line-height: 1.5;
+}
+
+.headerContainer {
+  text-align: center;
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  height: 6%;
+  width: 100%;
+  background-image: linear-gradient(to right, #339cff, #280067);
+}
