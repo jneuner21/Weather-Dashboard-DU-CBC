@@ -16,3 +16,7 @@ body {
   width: 100%;
   background-image: linear-gradient(to right, #339cff, #280067);
 }
+
+.hide {
+  display: none;
+}
