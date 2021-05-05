@@ -12,6 +12,10 @@ All that is needed to run this program is a current version of visual code studi
 
 when the page loads enter the city you would like to know the weather for and the application will display it as well as a 5 day forcast of the weather for you. if you wish to enter another city simply repet the first step and the new city will display from there. if you wish to go back to a previous city, no need to type it out again click on the butttons generating the previous weather.
 
+![screenshot of working web page](Weather-Dashboard-DU-CBC.Assets.example-photo.jpeg)
+
+<img src="Weather-Dashboard-DU-CBC/Assets/example-photo.jpeg" alt="screen shot of working site>
+
 attached are links for how the app should run and look
 
  -https://jneuner21.github.io/Weather-Dashboard-DU-CBC/
