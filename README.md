@@ -15,6 +15,8 @@ when the page loads enter the city you would like to know the weather for and th
 ![screenshot of working web page](Weather-Dashboard-DU-CBC.Assets.example-photo.jpeg)
 
 <img src="Weather-Dashboard-DU-CBC/Assets/example-photo.jpeg" alt="screen shot of working site>
+ 
+(screen shot has also been provided in assets file if images will not load in preview)
 
 attached are links for how the app should run and look
 
